@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094596354591",
+    "project_id": "check-93786",
+    "storage_bucket": "check-93786.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094596354591:android:61df6e496bd39ced036b2a",
+        "android_client_info": {
+          "package_name": "com.example.check"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPCBfpuuftQGIO1sF3NxHNeuwfhccCrsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
